@@ -1,4 +1,4 @@
-# Cocktail Wharehouse
+# Cocktail Warehouse
 
 
 ## IST-Analyse
@@ -38,31 +38,6 @@
     * 12.03.2021
     * 26.03.2021
     * 09.04.2021
-
-
-## Projektverlauf
-- 15.12.2020 - 2:30 Stunden
-    * von 21:30 bis 00:00 benutzer Oberfläche Wireframe skitziert (Log In, Log In Bootstrap, Create new User)
-- 26.12.2020 - 1:30 Stunden
-    * von 21:00 bis 22:30 Login/createNewUser PAP skiziert (Frontend)
-- 28.12.2020 - 1:45 Stunden
-    * von 21:30 bis 23:15 MainInterface PAP skiziert (Frontend)
-- 05.01.2021 - 1:00 Stunde
-    * von 20:30 bis 21:30 Sign In skiziert (Frontend)
-- 08.01.2021 - 1:15 stunden
-    * von 07:00 bis 08:15 html für Log In Page und New User geschrieben
-- 08.01.2021 - 0:30 Stunden
-    * von 16:00 bis 16:30 Server mit Express angefangen
-- 08.01.2021 - 3:30 Stunden
-    * von 20:30 bis 00:00 Routing mit Express weitergemacht und MongoDB mit Mongoose eingerichtet (Mit Postman)
-- 09.01.2021 - 2:00 Stunden
-    * von 21:30 bis 23:30 Routes kommentiert. Rescherschiert über: Users, MongoDB, LogIn und LogUp..
-- 01.02.2021 - 2:00 Stunden
-    * von 21:00 bis 23:00 Rescherschiert über: Reactjs
-- 08.02.2021 - 2:30 Stunden
-    * von 21:30 bis 00:00 Rescherschiert über: Reactjs
-- 09.02.2021 - 1:30 Stunden
-    * von 21:00 bis 22:30  Readme weitergeschrieben
 
 ## Verwendete externe Module im Backend
 
@@ -128,9 +103,3 @@
         * Es gibt einen Button um sich auszuloggen
         * Dadurch wird auch der User getrennt mit anderen User, falls er mit ein anderen User verbunden war 
 
-
-****
-
-- Wireframes
-    * Start Seite
-    * ![bild](Container/Applikation/Skizierungen/wireframe.drawio.svg)
