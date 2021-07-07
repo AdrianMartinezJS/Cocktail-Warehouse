@@ -1,0 +1,23 @@
+{
+  "name": "applikation",
+  "version": "1.0.0",
+  "description": "- Speichere und verwalte diene Cocktailsammlungen",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server",
+    "start": "node server.js"
+  },
+  "author": "Adrian Perez de Siles Martinez",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.25.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs-extra": "^9.1.0",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^5.11.11",
+    "multer": "^1.4.2"
+  }
+}
